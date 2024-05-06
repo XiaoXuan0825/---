@@ -39,8 +39,7 @@
 ### * Big-Dragon : 5倍注金。
 # 程式如何安裝執行：
 # 程式畫面截圖：
-### ![遊戲畫面](https://github.com/XiaoXuan0825/ten-a-half/assets/164355596/3eda9406-db97-476a-ae04-893cf8d836ff)
-
+![遊戲畫面](https://github.com/XiaoXuan0825/ten-a-half/assets/164355596/3eda9406-db97-476a-ae04-893cf8d836ff)
 # 分工資訊：
 ### 蕭芷萱 : README、第一次報告、PPT、主程式。
 ### 吳承翰 : 尚未進入github。
